@@ -26,4 +26,6 @@ Pretty soon
 2. Ejecuta el backend y el frontend como se explicó arriba.
 3. En la pestaña **Imágenes** elige el framework y el modelo (CNN o transfer learning), sube una foto de un animal y pulsa **Predecir**.
 
+   NOTA IMPORTANTE USAR EL TRANSFERLEARNING QUE ES MUCHO MAS EFICIENTE
+
 Los cambios hechos a la plantilla están en `CAMBIOS.md`.
